@@ -1,4 +1,4 @@
-# Disease Prediction CRUD Application
+# Disease Prediction Application
 
 A comprehensive medical records management system built with Streamlit and SQLite that allows healthcare professionals to manage patient data and predict diseases based on blood parameters.
 
